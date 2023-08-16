@@ -1,4 +1,4 @@
-# Welcome to the Sabil Project
+# Welcome to the ESHOP Project
 #### This is a full-functional (Work in progress now)  ecommerce web application that is developed by using MERN (MongoDB, Express.js, React.js, and Node.js).
 
 ## Features:
@@ -77,9 +77,6 @@ It is expected that the machine must have docker and docker-compose installed. G
 
 The client and server both are up and running and we should see the following screen if we navigate to the client url.
 
-![Login screen](./docs/images/login-screen.png)
-
-
 - seed data
   Go inside of the docker container and execute below commands. These will seed the database with `roles`, `users` and `products` data.
 
@@ -151,6 +148,3 @@ npm run db:migrate
 ```
 
 You should be able to see the username and password in the `/server/setup/users.json` file.
-
-## 🔗 Important Links ❗
-- 🔴 Project Live : [Sabil](https://sabil.vercel.app)
