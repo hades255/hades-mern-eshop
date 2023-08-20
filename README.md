@@ -148,3 +148,6 @@ npm run db:migrate
 ```
 
 You should be able to see the username and password in the `/server/setup/users.json` file.
+
+@2023
+---
